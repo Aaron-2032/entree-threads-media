@@ -3,44 +3,110 @@
     {
       "id": "2026-09-28-one-table",
       "publish_at": "2026-09-28T19:00:00+08:00",
-      "images": ["images/2026-09-28-one-table.jpg"],
+      "images": [
+        "images/2026-09-28-one-table.jpg"
+      ],
       "text": "一整晚，只服務你這一桌。\n\n沒有隔壁桌，沒有翻桌時間，\n也不用顧慮任何人的眼光。\n\n主廚到府，從備料到收拾，\n這一晚只屬於你們。\n\nentree-tw.com",
       "topic": "私廚到府"
     },
     {
+      "id": "2026-09-29-noon-business",
+      "publish_at": "2026-09-29T12:00:00+08:00",
+      "images": [
+        "images/2026-09-29-noon-business.jpg"
+      ],
+      "text": "商務宴請最難的不是訂位，\n是不被打擾。\n\n把場地換成你的客廳或招待所，\n談話的節奏，由你決定。",
+      "topic": "精緻外燴"
+    },
+    {
       "id": "2026-09-29-fine-dining",
       "publish_at": "2026-09-29T19:00:00+08:00",
-      "images": ["images/2026-09-29-fine-dining.jpg"],
+      "images": [
+        "images/2026-09-29-fine-dining.jpg"
+      ],
       "text": "在家，吃一頓米其林。\n\n不用訂位，不用趕下一輪，\n餐廳等級的菜，端上你自己的餐桌。\n談事情、慶祝，節奏都由你決定。\n\n搜尋「席 到府私廚」\nentree-tw.com",
+      "topic": "到府私廚"
+    },
+    {
+      "id": "2026-09-30-noon-tasting",
+      "publish_at": "2026-09-30T12:00:00+08:00",
+      "images": [
+        "images/2026-09-30-noon-tasting.jpg"
+      ],
+      "text": "入席，只有四步：\n\n一、提交需求——人數、場合、飲食偏好\n二、媒合主廚——平台為你挑人\n三、確認菜單——與主廚直接對話\n四、開席——主廚到府，全程服務",
       "topic": "到府私廚"
     },
     {
       "id": "2026-09-30-chef-at-home",
       "publish_at": "2026-09-30T19:00:00+08:00",
-      "images": ["images/2026-09-30-chef-at-home.jpg"],
+      "images": [
+        "images/2026-09-30-chef-at-home.jpg"
+      ],
       "text": "主廚，到你家。\n\n帶著食材進門，在你家廚房開伙，\n依人數與預算設計專屬菜單，\n結束後把廚房收拾乾淨才離開。\n\nentree-tw.com",
       "topic": "到府私廚"
     },
     {
+      "id": "2026-10-01-noon-celebration",
+      "publish_at": "2026-10-01T12:00:00+08:00",
+      "images": [
+        "images/2026-10-01-noon-celebration.jpg"
+      ],
+      "text": "一頓飯真正被記得的，\n通常不是哪一道菜。\n\n是那天誰坐在你旁邊，\n聊到幾點還捨不得散。\n\n席，是為那個晚上留的。",
+      "topic": "台北美食"
+    },
+    {
       "id": "2026-10-01-banquet",
       "publish_at": "2026-10-01T19:00:00+08:00",
-      "images": ["images/2026-10-01-banquet.jpg"],
+      "images": [
+        "images/2026-10-01-banquet.jpg"
+      ],
       "text": "把盛宴，帶到你家。\n\n生日、家宴、朋友聚會，\n人一多，餐廳就難訂、也難聊。\n那就讓整桌菜走進你家，\n想聊到幾點都可以。\n\nentree-tw.com",
       "topic": "精緻外燴"
     },
     {
+      "id": "2026-10-02-noon-fresh",
+      "publish_at": "2026-10-02T12:00:00+08:00",
+      "images": [
+        "images/2026-10-02-noon-fresh.jpg"
+      ],
+      "text": "東京有一群雙薪家庭，會請廚師來家裡三個小時。\n\n不是辦派對，是請他把接下來幾天的菜煮好。\n常備菜、咖哩、肉丸，三小時做十幾道，冰箱塞滿，廚房洗乾淨再走。\n\n做這件事的平台叫 Sharedine，\n現在登記的廚師超過四萬人，一次費用大概八、九千日圓起。\n\n最有意思的是創辦人：幾個顧問公司出身、正在帶小孩的媽媽。\n她們不是想做高級餐飲，是自己下班回家真的煮不動了。\n\n我們一直把「請廚師」想成奢侈品，\n但在東京，它比較接近請人來打掃。",
+      "topic": "私廚料理"
+    },
+    {
       "id": "2026-10-02-four-flavors",
       "publish_at": "2026-10-02T19:00:00+08:00",
-      "images": ["images/2026-10-02-four-flavors.jpg"],
+      "images": [
+        "images/2026-10-02-four-flavors.jpg"
+      ],
       "text": "一席之間，四種風味。\n\n摩登亞洲、山海料理、精緻西式、法式西餐——\n想吃什麼，挑一位合適的主廚就好。\n\nentree-tw.com",
       "topic": "台北美食"
     },
     {
+      "id": "2026-10-03-noon-main-course",
+      "publish_at": "2026-10-03T12:00:00+08:00",
+      "images": [
+        "images/2026-10-03-noon-main-course.jpg"
+      ],
+      "text": "我們不做「客製化菜單」。\n\n我們為您量身。\n\n問的是你不吃什麼、想慶祝什麼、\n席間有誰、想留下什麼樣的印象。",
+      "topic": "私廚到府"
+    },
+    {
       "id": "2026-10-03-tailored",
       "publish_at": "2026-10-03T19:00:00+08:00",
-      "images": ["images/2026-10-03-tailored.jpg"],
+      "images": [
+        "images/2026-10-03-tailored.jpg"
+      ],
       "text": "為您量身的一席。\n\n人數、預算、地點、菜系偏好，\n不吃什麼、想慶祝什麼，\n都先問清楚，再開菜單。\n\nentree-tw.com",
       "topic": "私廚到府"
+    },
+    {
+      "id": "2026-10-04-noon-dessert",
+      "publish_at": "2026-10-04T12:00:00+08:00",
+      "images": [
+        "images/2026-10-04-noon-dessert.jpg"
+      ],
+      "text": "請廚師到家裡煮一餐，會很浮誇嗎？\n\n我發現大家對這件事反應很兩極。\n有人覺得很奢侈，有人覺得跟訂包廂沒什麼兩樣，\n差別只是廚師來你家，而不是你去找他。\n\n我自己覺得，浮不浮誇看的不是價格，是理由。\n\n幫爸媽過結婚紀念、家裡長輩不方便出門、\n好朋友很久沒聚想聊到半夜不被趕，\n這些好像都不浮誇。\n\n你會覺得浮誇嗎？\n如果會，是卡在錢，還是卡在「陌生人進我家」？",
+      "topic": "台北私廚"
     }
   ]
 }
