@@ -25,7 +25,7 @@ n8n 工作流「[排程] Threads 圖文貼文」每小時讀一次 `queue.json`�
 | `publish_at` | ISO 時間，帶 `+08:00` |
 | `images` | 1 張 = 單圖貼文；2–20 張 = 輪播 |
 | `text` | ≤ 500 字，可省略 |
-| `topic` | 選填，一篇一個，不要打 `#`，不能含 `.` 和 `&`。沒寫就用「創業日記」；備選：流量密碼、餐飲業、美食 |
+| `topic` | 選填，一篇一個，不要打 `#`，不能含 `.` 和 `&` |
 
 3. 在 `n8n-threads/` 執行 `node scripts/push-media.mjs` —— 先驗證格式、圖片規格，通過才 commit + push。
 
